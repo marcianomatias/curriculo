@@ -23,7 +23,7 @@ Este currículo online tem como objetivo apresentar minha experiência profissio
 
 ## Visualização
 
-Você pode visualizar meu currículo online clicando [aqui](https://github.com/marcianomatias/curriculo).
+Você pode visualizar meu currículo online clicando [aqui](https://curriculo-amber.vercel.app/).
 
 ## Contribuição
 
@@ -44,4 +44,4 @@ Em caso de dúvidas, sugestões ou oportunidades de trabalho, fique à vontade p
 
 ## Licença
 
-Este projeto está licenciado sob a [Licença].
+Este projeto está licenciado sob a [MT].
